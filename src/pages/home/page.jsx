@@ -207,60 +207,6 @@ export default function Home() {
               />
             </div>
             {/* Exclusive Access */}
-            {/* <div
-              className="border-b border-white/50 pb-6 mb-6 cursor-pointer border-[#DAA967]"
-              onClick={() => toggleSection("exclusive")}
-            >
-              <div className="flex justify-between text-white items-center">
-                <div>
-                  <h3 className="text-lg font-semibold">Exclusive Access</h3>
-                  <p className="text-sm text-white/80">Request only</p>
-                </div>
-                {openSection === "exclusive" ? "up" : "down"}
-              </div>
-            </div> */}
-
-            {/* Reserved Access */}
-            {/* <div className="border-b border-white/50 pb-6 mb-6 border-[#DAA967]">
-              <div
-                className="cursor-pointer flex justify-between items-center"
-                onClick={() => toggleSection("reserved")}
-              >
-                <div>
-                  <h3 className="text-lg font-semibold">Reserved Access</h3>
-                  <p className="text-sm text-white/80">Buy $29.99</p>
-                </div>
-                {openSection === "reserved" ? "up" : "down"}
-              </div>
-              {openSection === "reserved" && (
-                <div className="mt-4 space-y-4 text-sm">
-                  <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua.
-                  </p>
-                  <p>
-                    Reserve your place in line with a $20 prepayment. Each
-                    reservation secures one piece, with the $20 credited toward
-                    your purchase.
-                  </p>
-                  <button className="text-white font-semibold flex items-center gap-2 hover:underline">
-                    Buy access $29.99 →
-                  </button>
-                </div>
-              )}
-            </div> */}
-
-            {/* Public Access */}
-            {/* <div
-              className="cursor-pointer"
-              onClick={() => toggleSection("public")}
-            >
-              <div className="flex justify-between items-center">
-                <h3 className="text-lg font-semibold">Public Access</h3>
-                {openSection === "public" ? "up" : "down"}
-              </div>
-            </div> */}
 
             {/* Bottom background image (tree pattern) */}
             <div className="absolute bottom-0 right-0 w-[200px] md:w-[300px] opacity-70 pointer-events-none">
