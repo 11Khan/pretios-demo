@@ -45,3 +45,10 @@ export { default as card_tree } from "./card_tree.svg";
 
 export { default as top_title } from "./top_title.png";
 export { default as top_title2 } from "./title_top2.png";
+
+// follows
+
+export { default as follow_1 } from "./follow_1.svg";
+export { default as follow_2 } from "./follow_2.svg";
+export { default as follow_3 } from "./follow_3.svg";
+export { default as follow_4 } from "./follow_4.svg";
