@@ -34,8 +34,6 @@ import {
   right_arrow,
   chevron,
   card_tree,
-  top_title,
-  top_title2,
   follow_1,
   follow_2,
   follow_3,
