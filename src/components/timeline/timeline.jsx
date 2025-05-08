@@ -38,7 +38,7 @@ export default function Timeline() {
               </p>
             </div>
           </div>
-          <div className="relative h-[1400px] w-[4px] bg-[#2D2D30]">
+          <div className="relative h-[1400px] w-[4px] mx-3 bg-[#2D2D30]">
             {/* Circle 1 - Top */}
             <div className="absolute left-1/2 top-[11px] h-[26px] w-[26px] -translate-x-1/2 -translate-y-1/2 rounded-full">
               <img src={start} className="h-[26px] min-w-[26px]" alt="s" />
