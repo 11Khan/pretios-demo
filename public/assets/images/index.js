@@ -52,3 +52,13 @@ export { default as follow_1 } from "./follow_1.svg";
 export { default as follow_2 } from "./follow_2.svg";
 export { default as follow_3 } from "./follow_3.svg";
 export { default as follow_4 } from "./follow_4.svg";
+
+// vision
+
+export { default as Design } from "./Design.png";
+export { default as Quality } from "./Quality.png";
+export { default as Limited } from "./Limited.png";
+export { default as start } from "./start.png";
+export { default as black_tree } from "./black_tree.png";
+export { default as vision_left } from "./vison_left.png";
+export { default as vision_right } from "./vision_right.png";
