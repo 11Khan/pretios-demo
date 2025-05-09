@@ -1,5 +1,5 @@
 import React from "react";
-import { start } from "../../../public/assets/images";
+import { start, wheat } from "../../../public/assets/images";
 
 export default function Timeline() {
   return (
@@ -16,7 +16,16 @@ export default function Timeline() {
               </p>
             </div>
             <div className="w-full max-w-[400px] min-h-[350px]">
-              <p className="text-[21px] text-white font-light mb-2">Genesis</p>
+              <div className="flex justify-start items-center gap-1 mb-2">
+                <p className="text-[21px] text-white font-light mb-0">
+                  Genesis{" "}
+                </p>
+                <img src={wheat} alt="s" className="w-5 h-[17px]" />
+                <p className="text-[14.75px] text-[#EAB875] font-light mb-0 mt-1">
+                  Sold out{" "}
+                </p>
+              </div>
+
               <p className="text-[18px] text-[#898A8B] font-light">
                 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
                 accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
@@ -40,6 +49,8 @@ export default function Timeline() {
           </div>
           <div className="relative h-[1400px] w-[4px] mx-3 bg-[#2D2D30]">
             {/* Circle 1 - Top */}
+            <div className="w-[4px] h-[26%] bg-[#F1B564]" />
+
             <div className="absolute left-1/2 top-[11px] h-[26px] w-[26px] -translate-x-1/2 -translate-y-1/2 rounded-full">
               <img src={start} className="h-[26px] min-w-[26px]" alt="s" />
             </div>
@@ -96,6 +107,8 @@ export default function Timeline() {
         <div className="flex justify-start gap-5">
           <div className="min-w-[26px]">
             <div className="relative mx-auto  h-[800px] w-[4px] bg-[#2D2D30]">
+              <div className="w-[4px] h-[26.5%] bg-[#F1B564]" />
+
               {/* Circle 1 - Top */}
               <div className="absolute left-1/2 top-[13px] h-[26px] w-[26px] -translate-x-1/2 -translate-y-1/2 rounded-full">
                 <img src={start} className="h-[26px] min-w-[25px]" alt="s" />

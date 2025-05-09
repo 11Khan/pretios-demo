@@ -59,6 +59,7 @@ export { default as Design } from "./Design.png";
 export { default as Quality } from "./Quality.png";
 export { default as Limited } from "./Limited.png";
 export { default as start } from "./start.png";
+export { default as wheat } from "./wheat.png";
 export { default as black_tree } from "./black_tree.png";
 export { default as vision_left } from "./vison_left.png";
 export { default as vision_right } from "./vision_right.png";
