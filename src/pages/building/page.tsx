@@ -124,7 +124,7 @@ export default function Building() {
           className="w-full min-h-[550px] md:h-full object-cover rounded-[6px]"
         />
 
-        <div className="mb-0 absolute flex justify-center items-center gap-2 bottom-3 md:bottom-5 cursor-divointer font-extralight left-0 right-0 md:right-5 text-[#EAB875] text-end text-[60px] md:min-w-[311px] ">
+        <div className="mb-0 absolute flex justify-center md:justify-end items-center gap-2 bottom-3 md:bottom-5 cursor-divointer font-extralight left-0 right-0 md:right-5 text-[#EAB875] text-end text-[60px] md:min-w-[311px] ">
           <img src={wheat} alt="wheat" className="w-[43px] h-[51px]" />{" "}
           <span>Sold Out</span>
         </div>
