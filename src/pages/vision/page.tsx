@@ -1,13 +1,10 @@
 import React, { useState } from "react";
 import {
   chair_bg,
-  football,
-  mani_bg,
-  mob_football,
   tree_logo,
   vision_bg,
   vision_bg_mob,
-} from "../../../public/assets/banners";
+} from "../../assets/banners";
 import {
   cen_logo,
   cloths,
@@ -48,7 +45,7 @@ import {
   vision_right,
   vision_left,
   black_tree,
-} from "../../../public/assets/images";
+} from "../../assets/images";
 import { Swiper, SwiperSlide } from "swiper/react";
 import Timeline from "../../components/timeline/timeline";
 const imagesSecOne = [img_1, img_2, img_3, img_1, img_2, img_3];

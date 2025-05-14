@@ -24,15 +24,15 @@ import {
   sec_three_img3,
   sub_des_desk,
   wheat,
-} from "../../../public/assets/images";
+} from "../../assets/images";
 import {
   buying_banner,
   chair_bg,
   mani_bg,
   tree_logo,
-} from "../../../public/assets/banners";
+} from "../../assets/banners";
 import { Swiper, SwiperSlide } from "swiper/react";
-import { plus } from "../../../public/assets/icons";
+import { plus } from "../../assets/icons";
 import CollapsibleList from "../../components/collabs/collaps_details";
 const imagesSecOne = [
   { img: img_1, label: "Heart Printed Jacket" },

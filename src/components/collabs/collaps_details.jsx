@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { plus } from "../../../public/assets/icons";
+import { plus } from "../../assets/icons";
 
 const sections = [
   {

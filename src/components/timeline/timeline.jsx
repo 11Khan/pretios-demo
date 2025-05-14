@@ -1,5 +1,5 @@
 import React from "react";
-import { start, wheat } from "../../../public/assets/images";
+import { start, wheat } from "../../assets/images";
 
 export default function Timeline() {
   return (

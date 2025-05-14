@@ -4,7 +4,7 @@ import {
   mani_bg,
   mob_football,
   tree_logo,
-} from "../../../public/assets/banners";
+} from "../../assets/banners";
 import {
   cen_logo,
   cloths,
@@ -37,7 +37,7 @@ import {
   follow_1,
   follow_2,
   follow_3,
-} from "../../../public/assets/images";
+} from "../../assets/images";
 import { Swiper, SwiperSlide } from "swiper/react";
 const imagesSecOne = [img_1, img_2, img_3, img_1, img_2, img_3];
 const imagesSecgrid = [
