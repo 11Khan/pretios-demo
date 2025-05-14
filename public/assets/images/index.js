@@ -15,6 +15,7 @@ export { default as inspiredtext } from "./inspired-text.png";
 export { default as subTest } from "./subTest.png";
 export { default as sub_des_desk } from "./sub_des_desk.png";
 export { default as football_text } from "./football_text.png";
+export { default as Exclussive } from "./Exclussive.png";
 
 // grid
 
@@ -63,3 +64,28 @@ export { default as wheat } from "./wheat.png";
 export { default as black_tree } from "./black_tree.png";
 export { default as vision_left } from "./vison_left.png";
 export { default as vision_right } from "./vision_right.png";
+
+// buying
+
+export { default as buying_right_img } from "./buying_right_img.png";
+// sec 2
+export { default as sec_three_img1 } from "./sec_three_img1.png";
+export { default as sec_three_img2 } from "./sec_three_img2.png";
+export { default as sec_three_img3 } from "./sec_three_img3.png";
+// sec 4
+
+export { default as sec_four_img1 } from "./sec_four_img1.png";
+export { default as sec_four_img2 } from "./sec_four_img2.png";
+export { default as sec_four_img3 } from "./sec_four_img3.png";
+
+export { default as sec_four_img1_sec_2 } from "./sec_four_img1_sec_2.png";
+export { default as sec_four_img2_sec_2 } from "./sec_four_img2_sec_2.png";
+
+export { default as redshirt_men } from "./red-main.png";
+
+// sec 5
+
+export { default as sec_five_img1 } from "./sec_five_img1.png";
+export { default as sec_five_img2 } from "./sec_five_img2.png";
+export { default as sec_five_img3 } from "./sec_five_img3.png";
+export { default as sec_five_img4 } from "./sec_five_img4.png";
